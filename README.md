@@ -8,7 +8,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TotoroUI-jupyter/blob/main/test.ipynb) | test
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/TotoroUI-jupyter/blob/main/sdxl.ipynb) | sdxl
 
 ### 🧬 Code
 https://github.com/comfyanonymous/ComfyU <br />
