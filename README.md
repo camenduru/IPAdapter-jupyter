@@ -14,6 +14,8 @@
 ### 📋 Tutorial
 ComfyUI = TotoroUI (because ComfyUI is banned on Colab 😋) <br />
 
+![TotoroUI](https://github.com/camenduru/TotoroUI-jupyter/assets/54370274/ded371dd-6500-4d5f-a700-d60a243d74b5)
+
 ### 🧬 Code
 https://github.com/comfyanonymous/ComfyUI <br />
 https://github.com/cubiq/ComfyUI_IPAdapter_plus <br />
